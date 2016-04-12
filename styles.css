@@ -1,0 +1,38 @@
+body {
+  width:90%;
+  margin: 0px auto;
+  background-image: url("http://romancebandits.com/wp-content/uploads/2012/02/blank-page.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.btn {
+  margin-bottom:15px;
+  background-image: url("http://www.brightonunitedmethodistchurch.com/wp-content/uploads/2013/08/chalkboard-background.jpg");
+  color:white;
+}
+
+.quote-container {
+  border: 1px solid black;
+  border-radius: 10px;
+  width:80%;
+  margin: 0px auto;
+  background-color:#F5E6BF;
+  padding:7px;
+}
+
+.quote {
+  margin-top:10px;
+  font-size:16px;
+}
+
+.author{
+  font-family:cursive;
+  font-size:20px;
+}
+
+.test {
+  color:yellow;
+  background-color:blue;
+  
+}
